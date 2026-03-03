@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 33b71fae31e6c7d438e8566dc713e666, type: 3}
+  m_Name: Inside a Cave
+  m_EditorClassIdentifier: GaussianSplatting::GaussianSplatting.Runtime.GaussianSplatAsset
+  m_FormatVersion: 20231020
+  m_SplatCount: 500000
+  m_BoundsMin: {x: -6.8710938, y: -3.0742188, z: -4.1796875}
+  m_BoundsMax: {x: 9.0390625, y: 3.1601562, z: 13.90625}
+  m_DataHash:
+    serializedVersion: 2
+    Hash: 56746e0742848a129006d943da42f9db
+  m_PosFormat: 2
+  m_ScaleFormat: 2
+  m_SHFormat: 3
+  m_ColorFormat: 2
+  m_PosData: {fileID: 4900000, guid: dba8b568c54699d49b460cb90bc254bf, type: 3}
+  m_ColorData: {fileID: 4900000, guid: 159407128934bb84fbeded4a52206c21, type: 3}
+  m_OtherData: {fileID: 4900000, guid: 4fbc235b698832e448306ddadad287ea, type: 3}
+  m_SHData: {fileID: 4900000, guid: bc23dc1ba6a5f6541a83c21c3877fac9, type: 3}
+  m_ChunkData: {fileID: 4900000, guid: ac4022de12022a0478f06f4de01d7518, type: 3}
+  m_Cameras: []
